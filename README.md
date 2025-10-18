@@ -76,18 +76,12 @@ diabetes-prediction/
 ├── app.py                  # Main Flask application
 ├── diabetes_model.pkl      # Trained ML model
 ├── scaler.pkl             # Data preprocessing scaler
-│
-├── templates/
-│   ├── index.html         # Home page with input form
-│   └── result.html        # Results display page
-│
-├── static/
-│   ├── styles.css         # Styling
-│   └── script.js          # Client-side validation
-│
+├── index.html             # Home page with input form
+├── result.html            # Results display page
+├── styles.css             # Styling
+├── script.js              # Client-side validation
 ├── link.txt               # Colab notebook link
 └── README.md              # Project documentation
-```
 
 ## 💻 Usage
 
