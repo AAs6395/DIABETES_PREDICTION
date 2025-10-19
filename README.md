@@ -16,7 +16,6 @@ An AI-powered web application that predicts diabetes risk using machine learning
 - [Project Structure](#project-structure)
 - [Model Information](#model-information)
 - [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [License](#license)
@@ -198,17 +197,6 @@ curl -X POST http://localhost:5000/predict \
   -F "age=30"
 ```
 
-## 📸 Screenshots
-
-### Home Page
-*(Add screenshot of your home page)*
-
-### Prediction Form
-*(Add screenshot of the form section)*
-
-### Results Page
-*(Add screenshot of results page)*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -278,5 +266,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
+
 
 Made with ❤️ for healthcare innovation
